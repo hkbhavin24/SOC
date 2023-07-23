@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/soclogo" />
+    <foreground android:drawable="@drawable/soclogo" />
+    <monochrome android:drawable="@drawable/soclogo" />
+</adaptive-icon>
